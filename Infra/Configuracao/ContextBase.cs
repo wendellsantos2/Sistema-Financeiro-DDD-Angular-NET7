@@ -11,13 +11,15 @@ namespace Infra.Configuracao
 {
     public class ContextBase : IdentityDbContext<ApplicationUser>
     {
-        public ContextBase( DbContextOptions options ) : base(options)
+        public ContextBase(DbContextOptions options) : base(options)
         {
         }
-        public DbSet<SistemaFinanceiro> SistemaFinaceiro { get; set; }
-        public DbSet<UsuarioSistemaFinanceiro>UsuarioSistemaFinanceiro { get; set; }
 
-        public DbSet<SistemaFinanceiro> Categoria { get; set; }
+        public DbSet<SistemaFinanceiro> SistemaFinanceiro { set; get; }
+        public DbSet<UsuarioSistemaFinanceiro> UsuarioSistemaFinanceiro { set; get; }
+        public DbSet<Categoria> Categoria { set; get; }
+        public DbSet<Despesa> Despesa { set; get; }
+ 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -26,7 +28,6 @@ namespace Infra.Configuracao
                 optionsBuilder.UseSqlServer(ObterStringConexao());
                 base.OnConfiguring(optionsBuilder);
             }
-           
         }
 
 
@@ -38,9 +39,14 @@ namespace Infra.Configuracao
             base.OnModelCreating(builder);
         }
 
+
         public string ObterStringConexao()
         {
-            return "Data Source=NBQSP-FC693;Initial Catalog=FINANCEIRO_2023;Integrated Security = False;User Id=sa;PassWord=1234;";
+            return "Data Source=NBQSP-FC693;Initial Catalog=FINANCEIRO_2023;Integrated Security=False;User ID=sa;Password=1234;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
+
+            //return "Data Source=NBQSP-FC693;Initial Catalog=FINANCEIRO_2023;Integrated Security=True"; // Evitar
         }
+
+
     }
 }

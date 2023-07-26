@@ -17,6 +17,11 @@ namespace Infra.Repositorio
             throw new NotImplementedException();
         }
 
+        public Task<IList<SistemaFinanceiro>> ListaSistemasUsuario(string emailUsuario)
+        {
+            throw new NotImplementedException();
+        }
+
         public Task<UsuarioSistemaFinanceiro> ObterUsuarioPorEmail(string emailUsuario)
         {
             throw new NotImplementedException();
