@@ -1,5 +1,6 @@
 ﻿
-using Domain.Interfaces.Generics;
+using Domain.Interface.Generics;
+ 
 using Infra.Configuracao;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Win32.SafeHandles;
@@ -13,18 +14,18 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Infra.Repositorio.Generics
 {
-    public class RepositoryGenerics<T> : InterfaceGeneric<T> ,IDisposable where T : class
+    public class RepositoryGenerics<T> : InterfaceGeneric<T>, IDisposable where T : class
     {
         private readonly DbContextOptions<ContextBase> _OptionsBuilder;
 
         public RepositoryGenerics()
         {
-        
+
         }
 
         public async Task Add(T objeto)
         {
-             using (var data = new ContextBase (_OptionsBuilder))
+            using (var data = new ContextBase(_OptionsBuilder))
             {
                 await data.Set<T>().AddAsync(objeto);
                 await data.SaveChangesAsync();
@@ -35,7 +36,7 @@ namespace Infra.Repositorio.Generics
         {
             using (var data = new ContextBase(_OptionsBuilder))
             {
-                 data.Set<T>().Remove(objeto);
+                data.Set<T>().Remove(objeto);
                 await data.SaveChangesAsync();
             }
         }
@@ -52,7 +53,7 @@ namespace Infra.Repositorio.Generics
         {
             using (var data = new ContextBase(_OptionsBuilder))
             {
-               return  await data.Set<T>().ToListAsync();
+                return await data.Set<T>().ToListAsync();
             }
         }
 
@@ -70,7 +71,7 @@ namespace Infra.Repositorio.Generics
         // Flag: Has Dispose already been called?
         bool disposed = false;
         // Instantiate a SafeHandle instance.
-        SafeHandle handle = new SafeFileHandle(IntPtr.Zero, true);
+        SafeHandle handle = new SafeFileHandle(nint.Zero, true);
 
 
 

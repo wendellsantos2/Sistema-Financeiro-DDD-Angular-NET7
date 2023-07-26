@@ -3618,11 +3618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Sistema-Financeiro-DDD-Angular-NET7\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Sistema-Financeiro-DDD-Angular-NET7\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\wemde\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Domain\\obj\\",
+      "outputPath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Sistema-Financeiro-DDD-Angular-NET7\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wemde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3639,8 +3639,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Entities\\Entities.csproj"
+            "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Sistema-Financeiro-DDD-Angular-NET7\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Sistema-Financeiro-DDD-Angular-NET7\\Entities\\Entities.csproj"
             }
           }
         }

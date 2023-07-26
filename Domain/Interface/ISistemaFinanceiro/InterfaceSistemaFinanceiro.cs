@@ -1,5 +1,4 @@
-﻿
-using Domain.Interfaces.Generics;
+﻿using Domain.Interface.Generics;
 using Entities.Entidades;
 using System;
 using System.Collections.Generic;
@@ -11,5 +10,7 @@ namespace Domain.Interface.ISistemaFinanceiro
 {
     public interface InterfaceSistemaFinanceiro : InterfaceGeneric<SistemaFinanceiro>
     {
+
+        Task<IList<SistemaFinanceiro>> ListaSistemasUsuario(string emailUsuario);
     }
 }

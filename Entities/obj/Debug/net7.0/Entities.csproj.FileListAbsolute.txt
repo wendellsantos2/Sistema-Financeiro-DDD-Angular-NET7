@@ -10,3 +10,15 @@ D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Entities\obj\Debug
 D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Entities\obj\Debug\net7.0\refint\Entities.dll
 D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.pdb
 D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Entities\obj\Debug\net7.0\ref\Entities.dll
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\bin\Debug\net7.0\Entities.dll
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\bin\Debug\net7.0\Entities.pdb
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\obj\Debug\net7.0\Entities.dll
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\obj\Debug\net7.0\Entities.pdb
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Entities\obj\Debug\net7.0\ref\Entities.dll

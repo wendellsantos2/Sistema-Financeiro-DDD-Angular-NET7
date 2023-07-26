@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SBkhjEORrm2DqOOUu/vAGYPDNMJxfMx1vJuWIKqlvI+xoEvVUnY6MCcUMMS1HunRyGJJWsCkmgYx79NyfTuaRQ==",
+  "dgSpecHash": "vFEm//5KmtBQ35Bx1vPkK+Ig9NEhdglc6l0mcT+BqpDEuzgeSpI5riGPg39fotVnizh0Zsv2mGweg1kO4BA3uQ==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\WebApii\\WebApi.csproj",
+  "projectFilePath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Sistema-Financeiro-DDD-Angular-NET7\\WebApii\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wemde\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\wemde\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

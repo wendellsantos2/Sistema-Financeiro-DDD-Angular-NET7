@@ -10,3 +10,15 @@ D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Helpers\obj\Debug\
 D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\refint\Helpers.dll
 D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.pdb
 D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\bin\Debug\net7.0\Helpers.deps.json
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\bin\Debug\net7.0\Helpers.dll
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\bin\Debug\net7.0\Helpers.pdb
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\obj\Debug\net7.0\Helpers.dll
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\obj\Debug\net7.0\Helpers.pdb
+D:\Projetos\Cursos .NET Alura\.Net_financeiro\Financeiro_2023\Sistema-Financeiro-DDD-Angular-NET7\Helpers\obj\Debug\net7.0\ref\Helpers.dll

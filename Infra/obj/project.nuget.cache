@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0pU/04eaUbM7PWxhXyTr6vtORsvbZLZgZNSe7eMwtAFWK301OqXEWNQej05W+OqRtg/UrsWbsNFH8zLwb01ntA==",
+  "dgSpecHash": "MoE9anG7HL677nMNURtXJjBdxjkktDxCywFqEBgggQaZZOvUKSH//nb76MqIrobEqR5ynAl531hkdWXNJTVrjg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Infra\\Infra.csproj",
+  "projectFilePath": "D:\\Projetos\\Cursos .NET Alura\\.Net_financeiro\\Financeiro_2023\\Sistema-Financeiro-DDD-Angular-NET7\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wemde\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\wemde\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
